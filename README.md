@@ -1,3 +1,13 @@
+# Second-Hand Vehicle Selling Website
+
+## Project Links
+
+### Live Project
+https://secondhandvehicle-automart.netlify.app
+
+### GitHub Repository
+https://github.com/rishitha1706/SecondHandVehicle
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
